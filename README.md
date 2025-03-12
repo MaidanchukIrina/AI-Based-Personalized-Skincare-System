@@ -1,6 +1,5 @@
-# AI-Based-Personalized-Skincare-System
-Skincare personalization with data-driven insights
 # 📌 AI-Based Personalized Skincare System
+Skincare personalization with data-driven insights
 
 ## 🚀 Project Overview
 This project is an AI-driven personalized skincare recommendation system designed to:
@@ -35,21 +34,21 @@ By leveraging AI-driven analysis, this project aims to:
 - **Ensure Ethical AI Compliance** – Following **ISO 42001 & ISO 27716**.
 
 ## 📂 Repository Structure
-📂 ai_cosmetics_project 
-│── 📂 data 
-│ ├── raw/ # Original skincare assessment samples 
-│ ├── processed/ # Cleaned and structured skincare data 
-│── 📂 notebooks 
-│ ├── data_processing.ipynb # Data extraction and cleansing 
-│ ├── recommendation_engine.ipynb # AI model for skincare 
-│── 📂 scripts 
-│ ├── extract_skin_data.py # Script to parse user inputs 
-│ ├── load_to_db.py # Script to store skincare recommendations in SQL 
-│── 📂 sql 
-│ ├── create_tables.sql # SQL schema for structured storage 
-│── 📂 dashboards 
-│ ├── skincare_dashboard.ipynb # Dashboard for recommendation analysis 
-│── README.md
+📂 ai_cosmetics_project  
+│── 📂 data   
+│ ├── raw/ # Original skincare assessment samples   
+│ ├── processed/ # Cleaned and structured skincare data   
+│── 📂 notebooks   
+│ ├── data_processing.ipynb # Data extraction and cleansing   
+│ ├── recommendation_engine.ipynb # AI model for skincare   
+│── 📂 scripts   
+│ ├── extract_skin_data.py # Script to parse user inputs   
+│ ├── load_to_db.py # Script to store skincare recommendations in SQL   
+│── 📂 sql   
+│ ├── create_tables.sql # SQL schema for structured storage   
+│── 📂 dashboards   
+│ ├── skincare_dashboard.ipynb # Dashboard for recommendation analysis   
+│── README.md  
 
 
 ## ✅ Project Roadmap
